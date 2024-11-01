@@ -27,7 +27,7 @@ EOF
 
 ENV PATH="/py/bin:$PATH"
 
-USER django_app_user
+# USER django_app_user
 
 EXPOSE 8000
 # CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
