@@ -41,6 +41,7 @@
 				"visualstudioexptteam.vscodeintellicode",
 				"ms-python.python",
 				"ms-python.flake8",
+				"ms-azuretools.vscode-docker",
 				"njpwerner.autodocstring"
 			]
 		}
